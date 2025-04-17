@@ -1,8 +1,28 @@
-# React + Vite
+# 🍔 QuickBite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+QuickBite is a responsive and fully functional **food ordering website** built using **React.js** and **Redux**.  
+Users can browse, filter, search, and add meals to their cart with a seamless experience.
 
-Currently, two official plugins are available:
+## 🚀 Live Site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [https://quick-bite-tan.vercel.app](https://quick-bite-tan.vercel.app)
+
+---
+
+## 🔧 Tech Stack
+
+- ⚛️ React.js
+- 📦 Redux (for state management)
+- 💅 Tailwind CSS
+- 🌐 Vercel (for deployment)
+
+---
+
+## 📦 Features
+
+- ✅ **Add to Cart** – Add food items to the cart and manage quantity
+- ✅ **Remove from Cart** – Easily remove items from the cart
+- 🔍 **Search Items** – Search food items by name
+- 🔃 **Filter Items** – Filter menu based on category 
+- 📱 **Responsive Design** – Mobile-friendly UI for all devices
+- 🔄 **Global State Management** – Using Redux for managing cart and item data
